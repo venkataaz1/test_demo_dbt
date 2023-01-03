@@ -35,4 +35,9 @@ models:
   my_new_project:
     # Applies to all files under models/example/
     example:
-      materialized: view
+          materialized: view
+#seeds:
+#        +schema:customer_data_testing
+#         input_orders:
+#            +column_types:
+#                o_orderdata:DATE

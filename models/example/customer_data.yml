@@ -1,0 +1,26 @@
+
+version: 2
+
+#models:
+#    -name:customer_data_dbt_model
+#     description:tbc
+#         tests:
+#	          -dbt_utils.equality:
+#	           compare_model:ref('customer_data_expected')
+#   -name:customer_data
+#     description:tbc
+#     tests:
+#       columns:
+#	           -name:Nation
+#              description:This is a the nation name.
+#              tests:
+#	                 -not_null
+#	
+#	-name:Region
+#	 description:This is the region name
+#
+#	-name:Customer
+#	 description:This is the name of the customer.
+
+
+     
